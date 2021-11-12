@@ -1,0 +1,2 @@
+# FACIAL-EMOTION-RECOGNITION-WITH-FACIAL-GESTURES
+The motivation behind choosing this topic specifically lies in the huge investments large corporations do in feedbacks and surveys but fail to get equitable response on their investments. Emotion Detection through facial gestures is a technology that aims to improve product and services performance by monitoring customer behaviour to certain products or service staff by their evaluation.
